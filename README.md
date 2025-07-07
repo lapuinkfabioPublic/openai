@@ -48,7 +48,7 @@ text
 └── .gitignore           # Arquivos ignorados
 🖼️ Screenshot
 
-![Descrição da imagem](screenshoot.png)
+![Descrição da imagem](screenshot.png)
 
 
 
