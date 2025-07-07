@@ -35,3 +35,48 @@ ollama pull llama3:3b
 
 # 4. Execute a aplicação
 streamlit run app.py
+
+
+🧩 Estrutura do Projeto
+text
+.
+├── Thor.py                # Aplicação principal
+├── README.md             # Este arquivo
+├── requirements.txt      # Dependências
+└── .gitignore           # Arquivos ignorados
+🖼️ Screenshot
+<div align="center"> <img src="screenshot.png" width="600" alt="Interface da aplicação"> </div>
+🤝 Como Contribuir
+Faça um fork do projeto
+
+Crie sua branch (git checkout -b feature/nova-funcionalidade)
+
+Commit suas mudanças (git commit -m 'Add nova funcionalidade')
+
+Push para a branch (git push origin feature/nova-funcionalidade)
+
+Abra um Pull Request
+
+📜 Licença
+MIT License - Consulte o arquivo LICENSE para detalhes.
+
+Desenvolvido com ❤️ por Fábio Leandro Lapuinka
+📅 Última atualização: Julho/2025
+
+text
+
+### Elementos incluídos:
+1. **Badges** visuais para tecnologias
+2. **Seção clara de pré-requisitos**
+3. **Comandos de instalação** passo a passo
+4. **Estrutura de arquivos** organizada
+5. **Seção de contribuição** padrão para GitHub
+6. **Espaço para screenshot** (basta adicionar uma imagem `screenshot.png`)
+7. **Responsivo** (com alinhamento central)
+
+### Dicas extras:
+- Adicione um arquivo `LICENSE` se quiser usar MIT/outra licença
+- Para screenshot: tire um print da interface e salve como `screenshot.png` na raiz
+- Substitua `seu-usuario` pelo seu username do GitHub
+
+Quer que eu adapte alguma seção específica? 😊
