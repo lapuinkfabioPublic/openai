@@ -48,7 +48,8 @@ text
 └── .gitignore           # Arquivos ignorados
 🖼️ Screenshot
 
-<div align="center"> <img src="screenshoot.png" width="600" alt="Interface da aplicação"> </div>
+![Descrição da imagem](screenshoot.png)
+
 
 
 🤝 Como Contribuir
