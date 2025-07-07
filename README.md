@@ -37,6 +37,8 @@ ollama pull llama3:3b
 streamlit run Thor.py
 
 
+
+
 🧩 Estrutura do Projeto
 text
 .
@@ -45,6 +47,9 @@ text
 ├── requirements.txt      # Dependências
 └── .gitignore           # Arquivos ignorados
 🖼️ Screenshot
+
+<div align="center"> <img src="screenshoot.png" width="600" alt="Interface da aplicação"> </div>
+
 
 🤝 Como Contribuir
 Faça um fork do projeto
