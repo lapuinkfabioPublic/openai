@@ -1,0 +1,26 @@
+# Pasta de ambiente virtual Python
+env/
+venv/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração e dados sensíveis
+*.env
+*.secret
+.env
+.secret
+
+# Arquivos de IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de build/distribuição
+build/
+dist/
+*.egg-info/
