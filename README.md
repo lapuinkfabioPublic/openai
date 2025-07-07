@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ollama pull llama3:3b
 
 # 4. Execute a aplicação
-streamlit run app.py
+streamlit run Thor.py
 
 
 🧩 Estrutura do Projeto
@@ -45,7 +45,7 @@ text
 ├── requirements.txt      # Dependências
 └── .gitignore           # Arquivos ignorados
 🖼️ Screenshot
-<div align="center"> <img src="screenshot.png" width="600" alt="Interface da aplicação"> </div>
+
 🤝 Como Contribuir
 Faça um fork do projeto
 
