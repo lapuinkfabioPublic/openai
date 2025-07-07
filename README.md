@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/AI-CrewAI-6DB33F" alt="CrewAI">
 </div>
 
+<div align="center">
+  <img src="screenshot.png" width="600" alt="Tela principal do app">
+</div>
+
 ## 📝 Descrição
 Aplicação web que integra **CrewAI** com modelos LLM locais via **Ollama**, utilizando Streamlit para interface. Permite interação com modelos como LLaMA3 diretamente do seu hardware.
 
@@ -48,9 +52,7 @@ text
 └── .gitignore           # Arquivos ignorados
 🖼️ Screenshot
 
-<div align="center">
-  <img src="screenshot.png" width="600" alt="Tela principal do app">
-</div>
+
 
 
 🤝 Como Contribuir
