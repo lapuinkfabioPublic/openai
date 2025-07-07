@@ -48,8 +48,9 @@ text
 └── .gitignore           # Arquivos ignorados
 🖼️ Screenshot
 
-![Descrição da imagem](screenshot.png)
-
+<div align="center">
+  <img src="screenshot.png" width="600" alt="Tela principal do app">
+</div>
 
 
 🤝 Como Contribuir
