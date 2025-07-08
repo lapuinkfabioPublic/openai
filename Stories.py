@@ -15,14 +15,14 @@ if button:
             role="Writer",
             goal="Generate a creative story based on the given prompt.",
             backstory="This agent is a skilled writer with a vivid imagination. They will craft an engaging story using the provided prompt as inspiration.",
-            llm="ollama/llama3.1"
+            llm="ollama/llama3.2:3b"
         )
 
         editor = Agent(
             role="Editor",
             goal="Review and refine the generated story for clarity, coherence, and flow.",
             backstory="This agent is an experienced editor who will carefully review the story, provide feedback, and make necessary revisions to improve the overall quality.",
-            llm="ollama/llama3.1"
+            llm="ollama/llama3.2:3b"
         )
 
         # Create tasks for the agents
